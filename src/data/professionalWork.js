@@ -1,3 +1,12 @@
+import pipeline from '../assets/pipeline.png'
+import report from '../assets/report.png'
+import chatbot from '../assets/chatbot.png'
+import warehouse from '../assets/warehouse.png'
+import search from '../assets/search.png'
+import fraud from '../assets/fraud.png'
+import email from '../assets/email.png'
+
+
 export const professionalExperiences = [
   {
     designation: 'Software Engineer',
@@ -7,8 +16,8 @@ export const professionalExperiences = [
       {
         title: 'Data Synchronization Pipeline',
         url: '',
-        image: '',
-        hoverImage: '',
+        image: pipeline,
+        hoverImage: pipeline,
         client: 'Onsite Electro Services',
         role: 'Software Engineer',
         year: '2026',
@@ -31,8 +40,8 @@ export const professionalExperiences = [
       {
         title: 'Asynchronous Cloud Based Export Service',
         url: '',
-        image: '',
-        hoverImage: '',
+        image: report,
+        hoverImage: report,
         client: 'Onsite Electro Services',
         role: 'Software Engineer',
         year: '2025',
@@ -56,8 +65,8 @@ export const professionalExperiences = [
       {
         title: 'LLM Based Customer Support Chatbot',
         url: '',
-        image: '',
-        hoverImage: '',
+        image: chatbot,
+        hoverImage: chatbot,
         client: 'Onsite Electro Services',
         role: 'Software Engineer',
         year: '2025',
@@ -81,8 +90,8 @@ export const professionalExperiences = [
       {
         title: 'Inventory Management System Restructuring',
         url: '',
-        image: '',
-        hoverImage: '',
+        image: warehouse,
+        hoverImage: warehouse,
         client: 'Onsite Electro Services',
         role: 'Software Engineer',
         year: '2026',
@@ -106,8 +115,8 @@ export const professionalExperiences = [
       {
         title: 'Search Latency Optimization',
         url: '',
-        image: '',
-        hoverImage: '',
+        image: search,
+        hoverImage: search,
         client: 'Onsite Electro Services',
         role: 'Software Engineer',
         year: '2024',
@@ -139,8 +148,8 @@ export const professionalExperiences = [
       {
         title: 'Fraud Prevention API',
         url: '',
-        image: '',
-        hoverImage: '',
+        image: fraud,
+        hoverImage: fraud,
         client: 'Onsite Electro Services',
         role: 'Software Engineer Intern',
         year: '2024',
@@ -161,8 +170,8 @@ export const professionalExperiences = [
       {
         title: 'Asynchronous Emailing Service',
         url: '',
-        image: '',
-        hoverImage: '',
+        image: email,
+        hoverImage: email,
         client: 'Onsite Electro Services',
         role: 'Software Engineer Intern',
         year: '2023',

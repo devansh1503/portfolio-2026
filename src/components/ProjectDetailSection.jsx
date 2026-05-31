@@ -9,7 +9,7 @@ function ProjectDetailImage({ src }) {
     return <span className="project-detail-image project-image-placeholder">Image</span>
   }
 
-  return <img src={src} alt="" className="project-detail-image" />
+  return <img src={src} alt="Project Image" className="project-detail-image" />
 }
 
 function getProjectKey(project) {
