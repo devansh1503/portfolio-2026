@@ -1,4 +1,4 @@
-import heroImage from '../assets/hero.png'
+import heroImage from '../assets/hero.jpeg'
 
 export const profile = {
   name: 'Devansh Abrol',
