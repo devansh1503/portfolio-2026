@@ -890,7 +890,7 @@
 .project-detail-image {
   display: flex;
   width: 100%;
-  min-height: clamp(260px, 48vw, 620px);
+  max-height: clamp(260px, 50vw, 620px);
   border: 1px solid var(--border);
   border-radius: 8px;
   object-fit: cover;
